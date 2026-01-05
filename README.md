@@ -25,7 +25,9 @@
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<div style="background-color:white; display:inline-block; padding:2px; border-radius:4px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+</div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -48,21 +50,16 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=avijadhav01&show_icons=true&count_private=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avijadhav01&show_icons=true&count_private=true)
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avijadhav01&layout=compact" />
-</p>
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avijadhav01" /></p>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avijadhav01&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avijadhav01)
 
 ---
 
 ## 📞 Connect With Me
-- **LinkedIn**: https://www.linkedin.com/in/your-linkedin-id
+- **LinkedIn**: https://www.linkedin.com/in/avinash-jadhav-xyz
 - **GitHub**: https://github.com/avijadhav01
 - **Email**: avipatil9699403305@gmail.com
 
