@@ -49,15 +49,14 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=avijadhav01" />
+<img src="https://github-readme-stats.vercel.app/api?username=avijadhav01&show_icons=true&count_private=true" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijadhav01" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avijadhav01&layout=compact" />
 </p>
-
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijadhav01" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avijadhav01" /></p>
 </p>
 
 ---
